@@ -1,0 +1,12 @@
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\Probando metroframework 1.4.exe.config
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\Probando metroframework 1.4.exe
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\Probando metroframework 1.4.pdb
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\MetroFramework.Design.dll
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\MetroFramework.dll
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\MetroFramework.Fonts.dll
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando metroframework 1.4.csprojResolveAssemblyReference.cache
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando_metroframework_1._4.Form1.resources
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando_metroframework_1._4.Properties.Resources.resources
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando metroframework 1.4.csproj.GenerateResource.Cache
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando metroframework 1.4.exe
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando metroframework 1.4.pdb

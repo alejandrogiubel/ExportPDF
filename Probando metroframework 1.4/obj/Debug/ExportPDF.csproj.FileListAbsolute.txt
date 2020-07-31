@@ -1,0 +1,36 @@
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\Probando metroframework 1.4.exe.config
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\Probando metroframework 1.4.exe
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\Probando metroframework 1.4.pdb
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\MetroFramework.Design.dll
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\MetroFramework.dll
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\bin\Debug\MetroFramework.Fonts.dll
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\ExportPDF.csprojResolveAssemblyReference.cache
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando_metroframework_1._4.Form1.resources
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando_metroframework_1._4.Properties.Resources.resources
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\ExportPDF.csproj.GenerateResource.Cache
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando metroframework 1.4.exe
+E:\WorkSpaceVisualStudio2015\Probando metroframework 1.4\Probando metroframework 1.4\obj\Debug\Probando metroframework 1.4.pdb
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.csprojResolveAssemblyReference.cache
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\obj\Debug\Probando_metroframework_1._4.Form1.resources
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.csproj.GenerateResource.Cache
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\bin\Debug\itextsharp.dll
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\bin\Debug\itextsharp.xml
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\bin\Debug\ExportPDF.exe.config
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\bin\Debug\ExportPDF.exe
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\bin\Debug\ExportPDF.pdb
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.exe
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.pdb
+C:\Users\Dani te amo\Desktop\ALE NO BORRAR\WORKSPACE\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.Properties.Resources.resources
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\bin\Debug\ExportPDF.exe.config
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\bin\Debug\ExportPDF.exe
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\bin\Debug\ExportPDF.pdb
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\bin\Debug\MetroFramework.Design.dll
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\bin\Debug\MetroFramework.dll
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\bin\Debug\MetroFramework.Fonts.dll
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.csprojResolveAssemblyReference.cache
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\obj\Debug\Probando_metroframework_1._4.Form1.resources
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.Properties.Resources.resources
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.csproj.GenerateResource.Cache
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.exe
+E:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.pdb
+D:\WorkSpaceVisualStudio2015\ExportPDF\Probando metroframework 1.4\obj\Debug\ExportPDF.pdb
